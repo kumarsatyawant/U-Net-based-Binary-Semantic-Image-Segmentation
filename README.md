@@ -22,8 +22,9 @@ Quantitative result:
 |     97.13       |       93.59        |
 
 
-![Results](figures/2_Train_Loss.png)
-Fig. 2. Plot for training loss.
+![Training loss curve](figures/2_Train_Loss.png)
+
+**Fig. 2** — Training loss vs epochs on training set.
 
 ![Results](figures/3_Val_Pixel_Acc.png)
 Fig. 3. Plot for validation pixel accuracy.
