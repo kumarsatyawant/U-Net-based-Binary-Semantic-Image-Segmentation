@@ -1,4 +1,4 @@
-#  Binary Semantic Image Segmentation
+#  U-Net based Binary Semantic Image Segmentation
 
 Binary semantic segmentation is a computer vision task that classifies every pixel in an image into one of two categories: the object of interest as foreground category and everything else as a background category, effectively creating a binary mask. It's a specific type of semantic segmentation, crucial for tasks like medical image analysis (e.g., segmenting tumors) or satellite imagery (e.g., separating land from water).
 
