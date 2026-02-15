@@ -22,13 +22,13 @@ Quantitative result:
 |     97.13       |       93.59        |
 
 
-![Results](figures/2_Train_Loss.svg)
+![Results](figures/2_Train_Loss.jpg)
 Fig. 2. Plot for training loss.
 
-![Results](figures/3_Val_Pixel_Acc.png)
+![Results](figures/3_Val_Pixel_Acc.jpg)
 Fig. 3. Plot for validation pixel accuracy.
 
-![Results](figures/4_Val_Dice_Coefficient.png)
+![Results](figures/4_Val_Dice_Coefficient.jpg)
 Fig. 4. Plot for validation dice coefficient.
 
 
