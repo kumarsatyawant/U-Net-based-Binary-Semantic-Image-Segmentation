@@ -23,19 +23,18 @@ Quantitative result:
 
 
 ![Training loss curve](figures/2_Train_Loss.png)
+**Fig. 2** Plot for training set.
 
-**Fig. 2** — Training loss vs epochs on training set.
+![Val pixel acc](figures/3_Val_Pixel_Acc.png)
+**Fig. 3** Plot for validation pixel accuracy.
 
-![Results](figures/3_Val_Pixel_Acc.png)
-Fig. 3. Plot for validation pixel accuracy.
-
-![Results](figures/4_Val_Dice_Coefficient.png)
-Fig. 4. Plot for validation dice coefficient.
-
+![Val dice coeff](figures/4_Val_Dice_Coefficient.png)
+**Fig. 4** Plot for validation dice coefficient.
 
 
-![Results](figures/5_Val_Pred_Results.png)
-Fig. 5. Qualitative sample prediction results on the validation dataset. The first, second & third rows in the figure represents the input images, ground truths & the prediction results respectively. 
+
+![Val pred results](figures/5_Val_Pred_Results.png)
+**Fig. 5** Qualitative sample prediction results on the validation dataset. The first, second & third rows in the figure represents the input images, ground truths & the prediction results respectively. 
 
 
 
